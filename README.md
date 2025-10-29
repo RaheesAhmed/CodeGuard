@@ -287,13 +287,13 @@ MIT License - see [LICENSE](LICENSE) for details.
 ## 🔗 Links
 
 
-- **GitHub**: [https://github.com/CodeGuard/mcp](https://github.com/CodeGuard/mcp)
-- **Issues**: [https://github.com/CodeGuard/mcp/issues](https://github.com/CodeGuard/mcp/issues)
+- **GitHub**: [https://github.com/RaheesAhmed/CodeGuard](https://github.com/RaheesAhmed/CodeGuard)
+- **Issues**: [https://github.com/RaheesAhmed/CodeGuard/issues](https://github.com/RaheesAhmed/CodeGuard/issues)
 
 ## 💡 Support
 
 - 📧 Email: rahesahmed37@gmail.com
-- 🐛 Bug Reports: [GitHub Issues](https://github.com/CodeGuard/mcp/issues)
+- 🐛 Bug Reports: [GitHub Issues](https://github.com/RaheesAhmed/CodeGuard/issues)
 
 ---
 
