@@ -286,7 +286,7 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ## 🔗 Links
 
-- **Documentation**: [https://CodeGuard-mcp.dev](https://CodeGuard-mcp.dev)
+
 - **GitHub**: [https://github.com/CodeGuard/mcp](https://github.com/CodeGuard/mcp)
 - **Issues**: [https://github.com/CodeGuard/mcp/issues](https://github.com/CodeGuard/mcp/issues)
 

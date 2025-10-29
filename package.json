@@ -1,11 +1,11 @@
 {
-  "name": "securityguard-mcp",
-  "version": "1.0.0",
+  "name": "codeguard-mcp",
+  "version": "1.0.1",
   "description": "Real-time AI code security scanner - MCP Server for detecting vulnerabilities, secrets, and compliance issues",
   "main": "dist/index.js",
   "type": "module",
   "bin": {
-    "securityguard-mcp": "dist/index.js"
+    "codeguard-mcp": "dist/index.js"
   },
   "scripts": {
     "build": "tsc",
@@ -24,7 +24,7 @@
     "owasp",
     "compliance"
   ],
-  "author": "SecurityGuard MCP Team",
+  "author": "Rahees Ahmed",
   "license": "MIT",
   "dependencies": {
     "quickmcp-sdk": "^1.0.0"
