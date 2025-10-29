@@ -22,7 +22,7 @@ AI coding tools are powerful but can generate code with security vulnerabilities
 ### Installation
 
 ```bash
-npm install -g CodeGuard-mcp
+npm install -g codeguard-mcp
 ```
 
 ### Usage with Claude Desktop
@@ -34,7 +34,7 @@ Add to your Claude Desktop config (`~/Library/Application Support/Claude/claude_
   "mcpServers": {
     "CodeGuard": {
       "command": "npx",
-      "args": ["-y", "CodeGuard-mcp"]
+      "args": ["-y", "codeguard-mcp"]
     }
   }
 }
